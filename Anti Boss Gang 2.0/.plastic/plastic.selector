@@ -1,0 +1,4 @@
+repository "Anti Boss Gang@local"
+  path "/"
+    br "/main"
+    co "/main"
